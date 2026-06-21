@@ -21,7 +21,7 @@
 }
 
 .logo{
-    background-image: url("amazonlogo.jpg");
+    background-image: url("images/amazonlogo.jpg");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -146,7 +146,7 @@
 
 .hero-section{
     height: 250px;
-    background-image: url("hero.jpg");
+    background-image: url("images/hero.jpg");
     background-size: cover;
 
 }
@@ -218,91 +218,91 @@
 }
 
 .box-img1{
-    background-image: url("home1.jpg");
+    background-image: url("images/home1.jpg");
 }
 .box-img2{
-    background-image: url("home2.jpg");
+    background-image: url("images/home2.jpg");
 }
 .box-img3{
-    background-image: url("home3.jpg");
+    background-image: url("images/home3.jpg");
 }
 .box-img4{
-    background-image: url("home4.jpg");
+    background-image: url("images/home4.jpg");
 }
 .box-img5{
-    background-image: url("revamp1.jpg");
+    background-image: url("images/revamp1.jpg");
 }
 .box-img6{
-    background-image: url("revamp2.jpg");
+    background-image: url("images/revamp2.jpg");
 }
 .box-img7{
-    background-image: url("revamp3.jpg");
+    background-image: url("images/revamp3.jpg");
 }
 .box-img8{
-    background-image: url("revamp4.jpg");
+    background-image: url("images/revamp4.jpg");
 }
 .box-img9{
-    background-image: url("bulk1.jpg");
+    background-image: url("images/bulk1.jpg");
 }
 .box-img10{
-    background-image: url("bulk2.jpg");
+    background-image: url("images/bulk2.jpg");
 }
 .box-img11{
-    background-image: url("bulk3.jpg");
+    background-image: url("images/bulk3.jpg");
 }
 .box-img12{
-    background-image: url("bulk4.jpg");
+    background-image: url("images/bulk4.jpg");
 }
 .box-img13{
-    background-image: url("unique1.jpg");
+    background-image: url("images/unique1.jpg");
 }
 .box-img14{
-    background-image: url("unique2.jpg");
+    background-image: url("images/unique2.jpg");
 }
 .box-img15{
-    background-image: url("unique3.jpg");
+    background-image: url("images/unique3.jpg");
 }
 .box-img16{
-    background-image: url("unique4.jpg");
+    background-image: url("images/unique4.jpg");
 }
 .box-img17{
-    background-image: url("trending1.jpg");
+    background-image: url("images/trending1.jpg");
 }
 .box-img18{
-    background-image: url("trending2.jpg");
+    background-image: url("images/trending2.jpg");
 }
 .box-img19{
-    background-image: url("trending3.jpg");
+    background-image: url("images/trending3.jpg");
 }
 .box-img20{
-    background-image: url("trending4.jpg");
+    background-image: url("images/trending4.jpg");
 }
 .box-img21{
-    background-image: url("fitness1.jpg");
+    background-image: url("images/fitness1.jpg");
 }
 .box-img22{
-    background-image: url("latest1.jpg");
+    background-image: url("images/latest1.jpg");
 }
 .box-img23{
-    background-image: url("latest2.jpg");
+    background-image: url("images/latest2.jpg");
 }
 .box-img24{
-    background-image: url("latest3.jpg");
+    background-image: url("images/latest3.jpg");
 }
 .box-img25{
-    background-image: url("latest4.jpg");
+    background-image: url("images/latest4.jpg");
 }
 .box-img26{
-    background-image: url("furniture1.jpg");
+    background-image: url("images/furniture1.jpg");
 }
 .box-img27{
-    background-image: url("furniture2.jpg");
+    background-image: url("images/furniture2.jpg");
 }
 .box-img28{
-    background-image: url("furniture3.jpg");
+    background-image: url("images/furniture3.jpg");
 }
 .box-img29{
-    background-image: url("furniture4.jpg");
+    background-image: url("images/furniture4.jpg");
 }
 
 
@@ -341,25 +341,25 @@
 }
 
 .box-img30{
-    background-image: url("kitchen1.jpg");
+    background-image: url("images/kitchen1.jpg");
 }
 .box-img31{
-    background-image: url("kitchen2.jpg");
+    background-image: url("images/kitchen2.jpg");
 }
 .box-img32{
-    background-image: url("kitchen3.jpg");
+    background-image: url("images/kitchen3.jpg");
 }
 .box-img33{
-    background-image: url("kitchen4.jpg");
+    background-image: url("images/kitchen4.jpg");
 }
 .box-img34{
-    background-image: url("kitchen5.jpg");
+    background-image: url("images/kitchen5.jpg");
 }
 .box-img35{
-    background-image: url("kitchen6.jpg");
+    background-image: url("images/kitchen6.jpg");
 }
 .box-img36{
-    background-image: url("kitchen7.jpg");
+    background-image: url("images/kitchen7.jpg");
 }
 
 /* Footer Section */
@@ -400,7 +400,7 @@
     align-items: center;
 }
 .logo2{
-    background-image: url("amazonlogo.jpg");
+    background-image: url("images/amazonlogo.jpg");
     background-size: cover;
     height: 60px;
     width: 100px;
